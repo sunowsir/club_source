@@ -8,7 +8,8 @@ subtitle: This is Sunowsir's club.
 description: 
 keywords:
 author: sunowsir
-language: zh-CN
+  # language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -74,7 +75,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Annie
+theme: coder
+  # theme: Annie
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
