@@ -83,7 +83,7 @@ theme: coder
 deploy:
   type: git
   repo: git@github.com:sunowsir/sunowsir.github.io.git
-  # repo: git@gitee.com:sunowsir/gitee.io.git
+    # repo: git@gitee.com:sunowsir/gitee.io.git
   branch: master
   message: update pages build
 
